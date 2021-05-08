@@ -1,0 +1,615 @@
+*{margin: 0 auto}
+
+.contenier
+{ 
+	width: 1200px;
+	margin: auto;
+	}
+
+.bar
+{
+	margin: 0 ;
+background-color:black;
+width: 100%;
+height:90px;
+padding: 1px;
+
+position: fixed;
+
+
+}
+
+.bar .header 
+{
+	width:1150px;
+	float: left;
+	margin: 10px  4px  6px;
+	
+}
+.bar .itme
+{
+	width: 10;
+	float: left;
+}
+
+.bar .itme ul li
+{
+	display: inline;
+	margin-right: 30px;
+	background-color: red;
+
+}
+.bar .header ul li
+{
+	display: inline;
+	margin-right: 30px;
+	background-color: red;
+}
+
+
+.bar .header h1
+
+{
+	cursor: pointer;
+	background-color: red;
+
+}
+.lmo
+{
+		float: left;
+		border-radius: 90px;
+}
+
+.lmoo
+{
+	float: left;
+	border-radius: 90px;
+}
+
+/*background image*/
+
+.bbbb
+
+
+{
+
+	
+	margin: 0  auto ;
+	width:100%;
+	height:300px;
+	background: url(https://morb3.com/wp-content/uploads/2020/01/5-PUBG-wallpapers-desktop-iphone-wallpapers-hd-%D8%AE%D9%84%D9%81%D9%8A%D8%A7%D8%AA-%D8%A7%D9%8A%D9%81%D9%88%D9%86-%D8%A7%D9%94%D9%8A%D9%81%D9%88%D9%86-1024x576.jpg);
+	background-size: cover;);
+	
+	padding: 80px;
+	 background-attachment: fixed;  
+}
+
+
+}
+
+ .ffffff
+{
+	width:50%;	
+
+
+	background:rgba(2,2,2,0.7);
+	margin: auto;
+
+	padding: 50px;
+	padding-top: 20px;
+	line-height: 40px;
+	
+	margin-top: 100px;
+	border-radius: 70px;
+
+
+}
+.fffff h1 
+{
+	text-align: center;
+	font-size: 30px;
+	line-height: 30px;
+	color: #fff
+
+}
+	
+	.fffff p
+	{
+		text-align: center;
+		font-size: 25px;
+		color: #fff
+
+
+	}
+
+.ffff h1 ,
+.ffff p
+{
+	line-height: 55px
+
+
+
+}
+
+
+
+.dddd
+{
+	width: 50%;	
+
+	background:rgba(2,2,2,0.7);
+	margin: auto;
+	
+	margin-top: 90px;
+	border-radius: 70px;
+
+}
+
+.dddd h1
+
+{
+	text-align: center;
+	font-size: 30px;
+	line-height: 60px;
+
+	
+	color: #fff;
+
+}
+
+.dddd .yy
+{
+padding:3px;
+		background-color: #fff;
+		
+	width: 100px;
+	font-size: 20px;
+	color: #fff;
+	border-color: khaki;
+
+	color: red;
+	cursor: pointer;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 3px 3px #666;
+	transition-duration: 0.5s;
+
+
+}
+
+.dddd .yy:hover
+{
+	background-color: black;
+}
+.dddd .yy:active
+{
+
+		
+	transform: translate(20px);
+	box-shadow: 1px 1px #wait;
+}
+
+
+
+.xxx
+
+{width: 50%;	
+	background:rgba(2,2,2,0.7);
+	margin: auto;
+
+	margin-top: 50px;
+	border-radius: 70px;
+	color: #fff;
+}
+
+
+.xxx h1
+{
+
+	text-align: center;
+	font-size: 30px;
+	line-height: 60px;
+
+
+}
+
+.xxx .x
+{
+	padding:3px;
+		background-color: #fff;
+		margin-top: 10px;
+	width: 100px;
+	font-size: 20px;
+	color: #fff;
+	border-color: khaki;
+
+	color: red;
+	cursor: pointer;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 3px 3px #666;
+	transition-duration: 0.5s;
+
+}
+
+.xxx .x:hover
+{
+	background-color: black;
+}
+
+.xxx .x:active
+{
+
+background-color: khaki;
+
+transform: translate(9px);
+box-shadow: 1px 1px #fff;
+
+}
+
+.ee
+{
+margin-top: 80px;
+
+}
+
+.n
+{
+	font-size: 30px;
+	text-align: center;
+	color: gold;
+	margin-top: 50px;
+}
+
+.cccc
+{
+	width: 50%;	
+	background:rgba(2,2,2,0.7);
+	margin: auto;
+	padding:10px;
+margin-top: 50px;
+	border-radius:40px;
+
+
+}
+
+.cccc h1
+{
+	text-align: center;
+	font-size: 30px;
+	color: #fff;
+	line-height: 30px;
+
+
+}
+
+.cccc .tt
+{
+	padding:3px;
+		background-color: #fff;
+		margin-top: 9px;
+	width: 100px;
+	font-size: 20px;
+	color: #fff;
+	border-color: khaki;
+
+	color: red;
+	cursor: pointer;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 3px 3px #666;
+	transition-duration: 0.5s;
+
+}
+
+.cccc .tt:hover
+{
+	background-color: black;
+
+
+}
+
+.cccc .tt:active
+{
+background-color: khaki;
+
+transform: translate(9px);
+box-shadow: 1px 1px #fff;
+
+
+}
+
+.bn
+{
+	padding-top: 30px; 
+
+
+}
+
+
+
+}
+.uue
+{
+	font-size: 20px;
+	text-align: center;
+	margin-top: 50px;
+	background: repeat-x;
+	background: rgba(5,6,7,0.7);
+	padding color: red;
+	width: 30%;
+	padding: 20px;
+	margin: auto;
+	margin-top: 40px;
+	border-radius: 70px;
+color: #fff;
+
+
+}
+.xxc
+
+{
+	font-size: 20px;
+	<text-align: center;
+	padding: 40px;
+
+
+
+
+}
+
+
+
+
+
+/*oooo*/
+
+
+.h
+{
+width: 50%;
+margin-top: 60px;
+	padding: 20px;
+background: rgba(2,2,2,0.7);
+margin:auto;
+border-radius: 50px;
+
+}
+
+.h h1
+{
+	font-size: 30px;
+	text-align: center;
+color: #fff;
+}
+
+.h  .e
+{
+	padding:3px;
+		background-color: #fff;
+		margin-top: 30px;
+	width: 100px;
+	font-size: 20px;
+	color: #fff;
+	border-color: khaki;
+
+	color: red;
+	cursor: pointer;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 3px 3px #666;
+	transition-duration: 0.5s;
+
+}
+
+
+.h .e:hover
+{
+
+	background-color: black;
+}
+  .h .e:active
+  {
+background-color: khaki;
+
+transform: translate(9px);
+box-shadow: 1px 1px #fff;
+
+  }
+
+
+
+
+  .rww
+  {
+
+
+width: 50%;
+margin: auto;
+background: rgba(2,2,2,0.7);
+padding: 10px;
+margin-top: 60px;
+border-radius: 70px;
+
+
+
+	
+
+
+
+
+
+
+  }
+
+  .rww h1
+  {
+  	font-size: 30px;
+	text-align: center;
+color: #fff;
+
+
+
+  }
+
+  .rww .q
+
+  {
+  	padding:3px;
+		background-color: #fff;
+		margin-top: 30px;
+	width: 100px;
+	font-size: 20px;
+	color: #fff;
+	border-color: khaki;
+
+	color: red;
+	cursor: pointer;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 3px 3px #666;
+	transition-duration: 0.5s;
+  }
+
+ .rww .q:hover
+ {background-color: black;
+
+ }
+ .rww .q:active
+ {
+background-color: khaki;
+
+transform: translate(9px);
+box-shadow: 1px 1px #fff
+
+
+ }
+
+.nnm 
+{
+	
+
+	padding-top:30px;
+	}
+
+
+	.aw
+	{
+		
+		font-size: 40px;
+		padding-top: 50px;
+		color: blue;
+
+
+	}
+
+.qw
+{
+
+
+		
+		font-size: 40px;
+		
+		color: #fff;
+
+
+	
+
+
+
+
+}
+
+
+.qqrww
+
+
+{
+color: red;
+
+	
+}
+ .bnn
+  {
+
+
+width: 50%;
+margin: auto;
+background: rgba(2,2,2,0.7);
+padding: 10px;
+
+border-radius: 70px;
+padding: 40px;
+margin-top: 90px;
+}
+.bnn h1
+{
+	color: #fff;
+	font-size: 30px;
+}
+
+.tttr
+
+
+{
+	margin-top: 50px;
+}
+.hw
+{
+width: 50%;
+
+	padding: 20px;
+background: rgba(2,2,2,0.7);
+margin: auto;
+border-radius: 50px;
+margin-top: 80px;
+}
+
+.hw h1
+{
+	font-size: 30px;
+	text-align: center;
+color: #fff;
+}
+
+.hw  .e
+{
+	padding:3px;
+		background-color: #fff;
+		margin-top: 30px;
+	width: 100px;
+	font-size: 20px;
+	color: #fff;
+	border-color: khaki;
+
+	color: red;
+	cursor: pointer;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 3px 3px #666;
+	transition-duration: 0.5s;
+
+}
+
+
+.hw .e:hover
+{
+
+	background-color: black;
+}
+  .hw .e:active
+  {
+background-color: khaki;
+
+transform: translate(9px);
+box-shadow: 1px 1px #fff;
+
+  }
+
+.logo
+{
+margin-top: 20px;
+border-radius: 100px;
+
+
+}
